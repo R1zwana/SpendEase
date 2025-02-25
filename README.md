@@ -1,2 +1,2 @@
 # SpendEase
-Website to track expense.
+App to track expense.
